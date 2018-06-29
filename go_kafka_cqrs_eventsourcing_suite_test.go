@@ -1,4 +1,4 @@
-package go_kafka_cqrs_eventsourcing_test
+package main_test
 
 import (
 	"testing"
